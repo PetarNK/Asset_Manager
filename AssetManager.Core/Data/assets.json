@@ -1,0 +1,23 @@
+﻿[
+  {
+    "id": "848114f0-2f02-4d19-87b1-dc104375da8a",
+    "name": "Apple IPhone 13",
+    "serialNumber": "APPLE13",
+    "type": "Smartphone",
+    "value": "1200.00"
+  },
+  {
+    "id": "4931af30-f7b8-45b7-9ac2-2e1492c2ea21",
+    "name": "Asus TUF 15",
+    "serialNumber": "ASUS15",
+    "type": "Laptop",
+    "value": "1800.00"
+  },
+  {
+    "id": "7e1f8d13-ee66-4e77-88f1-7eab9d912f4d",
+    "name": "Razer Viper",
+    "serialNumber": "PSE132RAZERVIPER",
+    "type": "Mouse",
+    "value": "50.00"
+  }
+]
